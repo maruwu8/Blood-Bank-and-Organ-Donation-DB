@@ -25,7 +25,9 @@ The application supports the following queries:
 8. Show patients who belong to the clinic "Militari" and are older than 40.
 9. Show all patients who have blood type A and are RH positive.
 10. Show which doctor has donors who have cancer.
-Disclaimer: medical info may not be 100% accurate!
+    
+##Disclaimer: medical info may not be 100% accurate!
+
 ## Getting Started
 
 To use the web application and access the database, follow these steps:
