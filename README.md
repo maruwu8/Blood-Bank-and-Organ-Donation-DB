@@ -8,6 +8,8 @@ This project is an interactive web application with a comprehensive database for
 
 🌟 Implemented over 20 tables using Oracle Database and MySQLi to store and manage data.
 
+
+
 🖥️ Developed an intuitive user interface using HTML and PHP for easy interaction with the application.
 
 🔍 Users can select from various predefined queries to retrieve specific information.
