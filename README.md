@@ -8,8 +8,7 @@ This project is an interactive web application with a comprehensive database for
 
 🌟 Implemented over 20 tables using Oracle Database and MySQLi to store and manage data.
 
-![Image Description](DB ERD.png)
-
+![image](https://github.com/maruwu8/Blood-Bank-and-Organ-Donation-DB/assets/130385138/6bc922d8-933b-4b5b-b7a3-ce1399ce4748)
 
 🖥️ Developed an intuitive user interface using HTML and PHP for easy interaction with the application.
 
